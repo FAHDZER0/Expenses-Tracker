@@ -1,0 +1,22 @@
+{
+  "name": "Expense Tracker",
+  "short_name": "Expenses",
+  "description": "Personal budget and expense tracker in AED",
+  "start_url": "/add",
+  "display": "standalone",
+  "background_color": "#0a0f1c",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
